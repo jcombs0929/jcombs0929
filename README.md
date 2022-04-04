@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcombs0929
 - 👀 I’m interested in learning more and more about Angular
-- 🌱 I’m currently learning all there is to know about Frontend Development
-- 👨‍💻 I'm also learning React!
+- 🌱 I’m currently a Design Lead doing a lot of code tinkering
+- 👨‍💻 I'm interested in learning React
 - 💞️ I’m looking to collaborate on projects that will help me learn and grow
 
 <!---
