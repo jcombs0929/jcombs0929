@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcombs0929
-- 🌱 I’m currently a Design Lead doing a lot of code tinkering
-- 👨‍💻 I know a little bit of Angular and interested in React
+- 🌱 I enjoy doing a lot of code-tinkering
+- 👨‍💻 I know a little bit of React and Next.js
 - 💞️ I’m looking to collaborate on projects that will help me learn and grow
 
 <!---
